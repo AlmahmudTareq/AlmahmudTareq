@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmahmudTareq
 - 👀 I’m interested in Automated Testing and Project Management tools
-- 🌱 I’m currently learning Saucelabs and Robot Framework (Python - Selenium)
+- 🌱 I’m currently learning "Saucelabs" and "Minitab: Data Analysis and Statistical Software"
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me @almahmudcse@gmail.com
 
