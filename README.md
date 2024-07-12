@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlmahmudTareq
 - 👀 I’m interested in Automated Testing and Project Management tools
-- 🌱 I’m currently learning "TeamCity" and "BitBucket (VS Code) CI/CD: Data Analysis and Statistical Software"
-- 💞️ I’m looking to collaborate on Software Testing
+- 🌱 I’m currently learning "Data Science with Python"
+- 💞️ I’m looking to collaborate on "Software Testing" and "Product Management"
 - 📫 How to reach me @almahmudcse@gmail.com
 
 <!---
