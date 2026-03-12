@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlmahmudTareq
-- 👀 I’m interested in Automated Testing and Project Management tools
-- 🌱 I’m currently learning "Data Science with Python"
 - 💞️ I’m looking to collaborate on "Software Testing" and "Product Management"
+- 🌱 I’m currently into "AI Product Management"
 - 📫 How to reach me @almahmudcse@gmail.com
 
 <!---
